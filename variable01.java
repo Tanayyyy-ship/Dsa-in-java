@@ -1,0 +1,16 @@
+public class variable01 {
+    public static void main(String[]args){
+        int a = 25;
+        int b = 10;
+        int sum = a +b;
+        System.out.println("\n" + sum);
+
+        int diff = a - b ;
+
+        System.out.println("\n"+ diff);
+
+        int mul = a * b ;
+        System.out.println("\n"+ mul);
+    }
+
+}
